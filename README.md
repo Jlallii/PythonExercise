@@ -2,6 +2,7 @@
 
 Here is a exercise made with python. 
 Under is link to a word file. The exercise was made by following given tasks in that file.
+
 [Harjoitus_8.docx](https://github.com/Jlallii/PythonExercise/files/13500329/Harjoitus_8.docx)
 
 In this exercise is simple UI, usage of random, buttons, threads, sounds, etc.
